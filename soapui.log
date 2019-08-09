@@ -1,0 +1,5 @@
+2019-08-09 11:49:29,048 WARN  [SoapUI] Missing folder [C:\Users\DMoraru\AppData\Local\Temp\tomcat.1284458668261103563.8080\webapps\app2\ext] for external libraries
+2019-08-09 11:49:29,985 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DMoraru\soapui-settings.xml]
+2019-08-09 11:49:31,423 INFO  [PluginManager] 0 plugins loaded in 0 ms
+2019-08-09 11:49:31,423 INFO  [DefaultSoapUICore] All plugins loaded
+2019-08-09 11:49:32,828 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DMoraru/AppData/Local/Temp/tomcat.1284458668261103563.8080/webapps/app2/WEB-INF/soapui/REST-Project-3-soapui-project.xml]
